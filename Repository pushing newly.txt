@@ -1,0 +1,111 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\user>cd desktop
+
+C:\Users\user\Desktop>cd rajisboss
+
+C:\Users\user\Desktop\rajisboss>gi init
+'gi' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\user\Desktop\rajisboss>git init
+Initialized empty Git repository in C:/Users/user/Desktop/rajisboss/.git/
+
+C:\Users\user\Desktop\rajisboss>git add .
+
+C:\Users\user\Desktop\rajisboss>git add mypage.txt
+
+C:\Users\user\Desktop\rajisboss>git commit -m "text is added"
+[master (root-commit) 961cba7] text is added
+ 1 file changed, 27 insertions(+)
+ create mode 100644 mypage.txt
+
+C:\Users\user\Desktop\rajisboss>git remote add origin https://github.com/NAGASAI
+RAJ/rajisboss.git
+
+C:\Users\user\Desktop\rajisboss>git push -u origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 618 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/NAGASAIRAJ/rajisboss.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+
+C:\Users\user\Desktop\rajisboss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\user>cd desktop
+
+C:\Users\user\Desktop>git clone https://github.com/NAGASAIRAJ/kietcodersgithub.g
+it
+fatal: destination path 'kietcodersgithub' already exists and is not an empty di
+rectory.
+
+C:\Users\user\Desktop>cd kietcodersgithub
+
+C:\Users\user\Desktop\kietcodersgithub>git add .
+
+C:\Users\user\Desktop\kietcodersgithub>git commit -m "text is added"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+C:\Users\user\Desktop\kietcodersgithub>git push origin master
+Everything up-to-date
+
+C:\Users\user\Desktop\kietcodersgithub>git add .
+
+C:\Users\user\Desktop\kietcodersgithub>git commit -m "text is added"
+[master 95906d3] text is added
+ 1 file changed, 17 insertions(+)
+ create mode 100644 mypage1.html
+
+C:\Users\user\Desktop\kietcodersgithub>git push origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 747 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/NAGASAIRAJ/kietcodersgithub.git
+   cda9493..95906d3  master -> master
+
+C:\Users\user\Desktop\kietcodersgithub>

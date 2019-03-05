@@ -1,0 +1,9 @@
+dell@dell-PC MINGW32 ~
+$ git --version
+git version 2.21.0.windows.1
+
+dell@dell-PC MINGW32 ~
+$ git config --global user.name "NAGA SAI RAJ VINNAKOTA"
+
+dell@dell-PC MINGW32 ~
+$ git config --global user.email "dhuniyakeraj12171@gmail.com"

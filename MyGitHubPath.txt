@@ -1,0 +1,34 @@
+dell@dell-PC MINGW32 ~ (master)
+$ cd desktop
+
+dell@dell-PC MINGW32 ~/desktop (master)
+$ git clone https://github.com/NAGASAIRAJ/MyEdystPrograms.git
+Cloning into 'MyEdystPrograms'...
+warning: You appear to have cloned an empty repository.
+
+dell@dell-PC MINGW32 ~/desktop (master)
+$ cd MyEdystPrograms
+
+dell@dell-PC MINGW32 ~/desktop/MyEdystPrograms (master)
+$ git add .
+
+dell@dell-PC MINGW32 ~/desktop/MyEdystPrograms (master)
+$ git commit -m "added file"
+[master (root-commit) 2fea63f] added file
+ 1 file changed, 75 insertions(+)
+ create mode 100644 MyEdystPrograms.txt
+
+dell@dell-PC MINGW32 ~/desktop/MyEdystPrograms (master)
+$ git push -u origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 934 bytes | 467.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/NAGASAIRAJ/MyEdystPrograms.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+dell@dell-PC MINGW32 ~/desktop/MyEdystPrograms (master)
+$
