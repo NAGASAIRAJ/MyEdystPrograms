@@ -61,7 +61,6 @@ Output: 149
 */
 
 
-
 //Your Answer
 
 public static void Met(int n) 
@@ -73,3 +72,6 @@ public static void Met(int n)
     }
     System.out.println(a);
 }
+
+
+
