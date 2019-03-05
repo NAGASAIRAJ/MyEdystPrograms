@@ -21,7 +21,7 @@ Output: Goodness
 */
 
 
-Your Answer
+//Your Answer
 
 class Solution
 {
@@ -43,7 +43,7 @@ class Solution
 
 /*
 A Funny Series
-Consider a sequence of the form 0, 1, 1, 2, 4, 7, 13, 24, 44, 81, 149…
+Consider a sequence of the form 0, 1, 1, 2, 4, 7, 13, 24, 44, 81, 149â€¦
 
 Write a method Met which takes as parameter an integer n and prints the nth term of the above sequence. The nth term will fit in an integer value.
 
@@ -62,7 +62,7 @@ Output: 149
 
 
 
-Your Answer
+//Your Answer
 
 public static void Met(int n) 
 {
